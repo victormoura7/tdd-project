@@ -1,0 +1,9 @@
+Testes Funcionais x Testes de Unidade
+
+Testes Funcionais
+- Realizados sob o ponto de vista do usuário
+- Exercitam uma funcionalidade completa do sistema
+
+Testes de Unidade
+- Realizados sob o ponto de vista do código
+- Exercitam pequenas partes independentes do sistema
